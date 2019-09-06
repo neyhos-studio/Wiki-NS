@@ -37,6 +37,10 @@ body{
     border: 1px solid rgba(0,0,0,0.12);
     padding: 5px;
 }
+.main-title{
+    display: inline-block; 
+    margin-top: 5px;
+}
 .scrollable{
 
 }
