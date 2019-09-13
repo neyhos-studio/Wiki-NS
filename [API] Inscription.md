@@ -1,9 +1,11 @@
 # Utilisation de l'API inscription
 
   - URL : https://localhost:5001/api/Utilisateurs/Inscription
-  - Il faut envoyer un [Object] avec toutes les informations, le Back s'occupe ensuite de scinder l'objet en 2, pour faire les bonnes insertions en DB
+  - Il faut envoyer un [Object] composé de 2 [Object] :
+      - Un [Object] account (avec Email / Password)
+      - Un [Object] user    (avec les autres informations, le back s'occupe de récupérer l'ID de l'account inséré)
 
-JSON SEND
+OBJECT SEND
 
     {
       "account": {
