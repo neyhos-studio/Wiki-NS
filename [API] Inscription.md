@@ -7,16 +7,16 @@ JSON SEND
 
     {
       "account": {
-        "emailAccount": "kylian.robba@live.fr",
-        "passwordAccount": "bbb"
+        "emailAccount": "exemple@exemple.com",
+        "passwordAccount": "exemple"
       },
       "user": {
-        "nicknameUser": "Akcess",
-        "firstNameUser": "Kylian",
-        "lastNameUser": "Robba",
-        "birthdayUser": "1994-01-07",
-        "genderUser": "m",
-        "secretQuestionUser": "Quel est le nom de mon chat ?",
-        "secretAnswerUser": "Lequel"
+        "nicknameUser": "exemple",
+        "firstNameUser": "exemple",
+        "lastNameUser": "exemple",
+        "birthdayUser": "yyyy-MM-dd",
+        "genderUser": "M",
+        "secretQuestionUser": "Secret Question",
+        "secretAnswerUser": "Secret Answer"
       }
     }
