@@ -21,3 +21,7 @@ OBJECT SEND
         "genderUser": "M"
       }
     }
+
+RESPONSE
+
+    true si tout c'est bien passé
