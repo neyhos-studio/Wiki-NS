@@ -18,8 +18,6 @@ OBJECT SEND
         "firstNameUser": "exemple",
         "lastNameUser": "exemple",
         "birthdayUser": "yyyy-MM-dd",
-        "genderUser": "M",
-        "secretQuestionUser": "Secret Question",
-        "secretAnswerUser": "Secret Answer"
+        "genderUser": "M"
       }
     }
