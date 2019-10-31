@@ -10,4 +10,4 @@
 3. "Sur quelle base de données se connecter ?" -> 1
 4. "Sur quel serveur se connecter ?" -> 1
 
-C'est OK
+
