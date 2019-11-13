@@ -10,3 +10,7 @@
 
   - Si il faut 'Build' : dotnet build --runtime ubuntu.16.04-x64
   - dotnet run --project /home/NS/LauncherBack --urls=https://92.222.80.11:5001
+  
+## Consulter les logs
+  
+  - tail -f /home/NS/LauncherBack/Logs/console.log
